@@ -1,0 +1,1 @@
+ActiveRecordライブラリーにあるBaseクラスですでにallメソッドが定義され、UserクラスはBaseクラスを継承してるので、Userクラスでもallメソッドが使える。
